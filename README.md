@@ -14,7 +14,7 @@ A set of components which simplify human behaviour experiments developed in the 
 
 <p align="center">
   <a href="https://doi.org/10.3758/s13428-019-01242-0">
-  <img src="media/uxf-paper.PNG">
+  <img src="https://user-images.githubusercontent.com/60415183/260886477-ac25d16e-7d83-4c1e-90a7-ff6d42ccb742.png">
   </a>
   
   Read the [open access paper](https://doi.org/10.3758/s13428-019-01242-0) in Behavior Research Methods! The paper is now slightly out of date but gives a good overview of the motivation of this project. Developed by Jack Brookes, Immersive Cognition Group, University of Leeds.
