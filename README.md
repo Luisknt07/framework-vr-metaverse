@@ -1,6 +1,6 @@
-# framework-vr-metaverse
+# Framework-VR-Metaverse
 
-Hola A todos este es un La versión de prueba del Framework
+En este repositorio se realiza una descripción detallada del Framework de Realidad Virtual, para ello se ha estructurado trabajar en diferentes secciones 
 
 # Cuestionario Pruebas de usabilidad
 https://forms.gle/MJNCa1CjfceJACiD7
