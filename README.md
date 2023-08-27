@@ -30,8 +30,8 @@ If you have developed a project using UXF please [let me know](http://twitter.co
 ## Built with UXF
 
 <p align="center">
- 
-  <img src="media/built-with-uxf.jpg">
+  <a href="https://immersivecognition.github.io/projects/virtual-reality-experiments/" target="_blank">
+
   </a>
   
   Click the banner above to see some of our experiments that have been built with UXF.
