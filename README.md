@@ -74,7 +74,7 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 
 |Tipo de monitorización |Monitorización| Descripción |
 |---|---|---|
-| `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |• Registro de inicio y finalización de cada etapa del ensamblaje. <br> • Datos de producción por fase y tiempo de ciclo de ensamblaje. <br> • Identificación de operadores y maquinaria involucrada en cada proceso. <br> • Registros de calidad y control de defectos durante el ensamblaje.|
+| `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |• [Registro de inicio y finalización de cada etapa del ensamblaje.](#) <br> • Datos de producción por fase y tiempo de ciclo de ensamblaje. <br> • Identificación de operadores y maquinaria involucrada en cada proceso. <br> • Registros de calidad y control de defectos durante el ensamblaje.|
 |`Monitorización por Procesos` | Base de datos de rendimiento de procesos |• Registro de eficiencia y productividad de cada línea de ensamblaje. <br> • Análisis de tiempos de inactividad y paradas no programadas. <br> • Indicadores clave de rendimiento (KPI) para evaluar el desempeño. |
 | `log.csv` | /session_info | A copy of all `Debug.Log` calls during the session, as well as any other custom data saved under datatype SessionLog. |
 | `settings.json` | /session_info | A copy of all settings applied as the session begins. |
