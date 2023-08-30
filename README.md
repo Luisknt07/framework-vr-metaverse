@@ -68,6 +68,7 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
     • Análisis de tiempos de inactividad y paradas no programadas.
     • Indicadores clave de rendimiento (KPI) para evaluar el desempeño.
 
+
 ### Monitorización por Maquinaria y Robots
 #### Base de datos de estado de la maquinaria y robots
     • Registro del estado operativo de cada máquina y robot en tiempo real.
@@ -77,6 +78,28 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 #### Base de datos de utilización de maquinaria y robots
     • Registro de tiempo de uso de cada equipo.
     • Cálculo de la utilización y eficiencia de las máquinas y robots.
+
+### Monitorización por Calidad de Producto
+
+#### Base de datos de control de calidad de ensamblaje
+    • Registro de datos de inspección y pruebas de calidad en línea de producción.
+    • Trazabilidad de componentes y piezas utilizadas en cada vehículo.
+    • Información sobre desviaciones y acciones correctivas.
+
+#### Base de datos de feedback de clientes
+    • Registro de comentarios y sugerencias de los clientes sobre la calidad del automóvil.
+    • Evaluación de satisfacción del cliente y retroalimentación.
+
+### Monitorización por Recursos y Logística
+
+#### Base de datos de inventario y suministros:
+    • Registro de existencias de piezas, componentes y materiales.
+    • Gestión de pedidos y control de reposición de inventario.
+
+#### Base de datos de recursos humanos:
+    • Registro de información del personal, habilidades y formación.
+    • Gestión de horarios y asignación de tareas en la línea de ensamblaje.
+    
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
 Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realidad virtual. Estas guías tienen como objetivo mejorar la experiencia de los usuarios al utilizar el aplicativo y permitirles realizar prácticas de manera estructurada.
