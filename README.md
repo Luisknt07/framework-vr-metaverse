@@ -76,56 +76,13 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 |---|---|---|
 | `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |• [Registro de inicio y finalización de cada etapa del ensamblaje.](#) <br> • [Datos de producción por fase y tiempo de ciclo de ensamblaje.](#) <br> • [Identificación de operadores y maquinaria involucrada en cada proceso.](#) <br> • [Registros de calidad y control de defectos durante el ensamblaje.](#)|
 |`Monitorización por Procesos` | Base de datos de rendimiento de procesos |• [Registro de eficiencia y productividad de cada línea de ensamblaje.](#) <br> • [Análisis de tiempos de inactividad y paradas no programadas.](#) <br> • [Indicadores clave de rendimiento (KPI) para evaluar el desempeño.](#) |
-| `log.csv` | /session_info | A copy of all `Debug.Log` calls during the session, as well as any other custom data saved under datatype SessionLog. |
-| `settings.json` | /session_info | A copy of all settings applied as the session begins. |
-| Trackers e.g `head_movement_T001.csv` | /trackers | A copy of tracker data, stored with one file per trial. Tracker data is continuous data, the most common will be tracking the movement of an object (e.g. head/hands) with the `PositionRotationTracker` component. |
-| Other data | /other | Any other [custom data stored manually](https://github.com/immersivecognition/unity-experiment-framework/wiki/Collect-Custom-Data), associated with a trial or a session. |
+| `Monitorización por Maquinaria y Robots` | Base de datos de estado de la maquinaria y robots | • [Registro del estado operativo de cada máquina y robot en tiempo real.](#) <br> • [Datos de mantenimiento preventivo y correctivo.](#) <br> • [Información sobre averías y reparaciones.](#) |
+| `Monitorización por Maquinaria y Robots`| Base de datos de utilización de maquinaria y robots | • [Registro de tiempo de uso de cada equipo.](#) <br> • [Cálculo de la utilización y eficiencia de las máquinas y robots.](#) |
+| `Monitorización por Calidad de Producto`| Base de datos de control de calidad de ensamblaje | • [Registro de datos de inspección y pruebas de calidad en línea de producción.](#) <br> • [Trazabilidad de componentes y piezas utilizadas en cada vehículo.](#) <br> • [Información sobre desviaciones y acciones correctivas.](#) |
+|`Monitorización por Calidad de Producto` | Base de datos de feedback de clientes | • [Registro de comentarios y sugerencias de los clientes sobre la calidad del automóvil.](#) <br> • [Evaluación de satisfacción del cliente y retroalimentación.](#) |
+|`Monitorización por Recursos y Logística`| Base de datos de inventario y suministros | • [Registro de existencias de piezas, componentes y materiales.](#) <br> • [Gestión de pedidos y control de reposición de inventario.](#)|
+|`Monitorización por Recursos y Logística` | Base de datos de recursos humanos | • [Registro de información del personal, habilidades y formación.](#) <br> • [Gestión de horarios y asignación de tareas en la línea de ensamblaje.](#) |
 
-
-### Monitorización por Procesos
-
-#### Base de datos de seguimiento de procesos de ensamblaje
-    • Registro de inicio y finalización de cada etapa del ensamblaje.
-    • Datos de producción por fase y tiempo de ciclo de ensamblaje.
-    • Identificación de operadores y maquinaria involucrada en cada proceso.
-    • Registros de calidad y control de defectos durante el ensamblaje.
-
-#### Base de datos de rendimiento de procesos
-    • Registro de eficiencia y productividad de cada línea de ensamblaje.
-    • Análisis de tiempos de inactividad y paradas no programadas.
-    • Indicadores clave de rendimiento (KPI) para evaluar el desempeño.
-
-
-### Monitorización por Maquinaria y Robots
-#### Base de datos de estado de la maquinaria y robots
-    • Registro del estado operativo de cada máquina y robot en tiempo real.
-    • Datos de mantenimiento preventivo y correctivo.
-    • Información sobre averías y reparaciones.
-
-#### Base de datos de utilización de maquinaria y robots
-    • Registro de tiempo de uso de cada equipo.
-    • Cálculo de la utilización y eficiencia de las máquinas y robots.
-
-### Monitorización por Calidad de Producto
-
-#### Base de datos de control de calidad de ensamblaje
-    • Registro de datos de inspección y pruebas de calidad en línea de producción.
-    • Trazabilidad de componentes y piezas utilizadas en cada vehículo.
-    • Información sobre desviaciones y acciones correctivas.
-
-#### Base de datos de feedback de clientes
-    • Registro de comentarios y sugerencias de los clientes sobre la calidad del automóvil.
-    • Evaluación de satisfacción del cliente y retroalimentación.
-
-### Monitorización por Recursos y Logística
-
-#### Base de datos de inventario y suministros:
-    • Registro de existencias de piezas, componentes y materiales.
-    • Gestión de pedidos y control de reposición de inventario.
-
-#### Base de datos de recursos humanos:
-    • Registro de información del personal, habilidades y formación.
-    • Gestión de horarios y asignación de tareas en la línea de ensamblaje.
     
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
