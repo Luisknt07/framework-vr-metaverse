@@ -53,6 +53,19 @@ El repositorio de información y bases de datos para la monitorización se deja 
 
 En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto: [https://github.com/mickluis/framework-vr-metaverse}](https://github.com/mickluis/framework-vr-metaverse/tree/main#5--Bases-de-datos-para-monitorizaci%C3%B3n.
 
+## Bases de Datos para la Monitorización en una Planta de Ensamble de Automóviles en Smart Factory
+
+### Monitorización por Procesos
+
+#### Base de datos de seguimiento de procesos de ensamblaje:
+• Registro de inicio y finalización de cada etapa del ensamblaje.
+• Datos de producción por fase y tiempo de ciclo de ensamblaje.
+• Identificación de operadores y maquinaria involucrada en cada proceso.
+• Registros de calidad y control de defectos durante el ensamblaje.
+#### Base de datos de rendimiento de procesos:
+• Registro de eficiencia y productividad de cada línea de ensamblaje.
+• Análisis de tiempos de inactividad y paradas no programadas.
+• Indicadores clave de rendimiento (KPI) para evaluar el desempeño.
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
 Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realidad virtual. Estas guías tienen como objetivo mejorar la experiencia de los usuarios al utilizar el aplicativo y permitirles realizar prácticas de manera estructurada.
