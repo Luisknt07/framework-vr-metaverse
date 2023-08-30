@@ -90,9 +90,7 @@ Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realid
 
 Las guías abarcan temas de producción, logística, almacenamiento, diseño modular, monitorización y Smart Factory, proporcionando a los usuarios una comprensión completa de diversas áreas relevantes para la realidad virtual en entornos industriales.
 
-En total, se han diseñado 10 guías de laboratorio, disponibles en el repositorio del proyecto en el siguiente enlace: https://github.com/mickluis/framework-vr-metaverse. Cada guía incluye información general de la práctica, objetivos, proceso de desarrollo y marco teórico.
-
-De igual manera puede consultar, las guías de prácticas en la plataforma Virprot- https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción guías de laboratorio.
+En total, se han diseñado 10 guías de laboratorio, disponibles en la plataforma Virprot- https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción guías de laboratorio.
 
 **Contents**
 - [Built with UXF](#built-with-uxf)
