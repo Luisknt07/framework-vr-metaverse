@@ -68,14 +68,14 @@ El contenido del GDD se muestra a continuación:
 # 5- Bases de datos para monitorización
 El repositorio de información y bases de datos para la monitorización se deja disponible con el propósito de mantener actualizada la información utilizada en el proyecto caso de estudio y para proporcionar recursos a la comunidad científica y a nuevos investigadores. Esto promueve la transparencia, el acceso abierto a los datos, la colaboración y el avance del conocimiento en el campo de la monitorización. 
 
-En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto: [https://github.com/mickluis/framework-vr-metaverse}](https://github.com/mickluis/framework-vr-metaverse/tree/main#5--Bases-de-datos-para-monitorizaci%C3%B3n.
+En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto:
 
 ## Bases de Datos para la Monitorización en una Planta de Ensamble de Automóviles en Smart Factory
 
-|Tipo de monitorización |Monitorización| Descripción |
+|Tipo de monitorización |Monitorización| Bases de datos|
 |---|---|---|
-| `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |• [Registro de inicio y finalización de cada etapa del ensamblaje.](#) <br> • Datos de producción por fase y tiempo de ciclo de ensamblaje. <br> • Identificación de operadores y maquinaria involucrada en cada proceso. <br> • Registros de calidad y control de defectos durante el ensamblaje.|
-|`Monitorización por Procesos` | Base de datos de rendimiento de procesos |• Registro de eficiencia y productividad de cada línea de ensamblaje. <br> • Análisis de tiempos de inactividad y paradas no programadas. <br> • Indicadores clave de rendimiento (KPI) para evaluar el desempeño. |
+| `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |• [Registro de inicio y finalización de cada etapa del ensamblaje.](#) <br> • [Datos de producción por fase y tiempo de ciclo de ensamblaje.](#) <br> • [Identificación de operadores y maquinaria involucrada en cada proceso.](#) <br> • [Registros de calidad y control de defectos durante el ensamblaje.](#)|
+|`Monitorización por Procesos` | Base de datos de rendimiento de procesos |• [Registro de eficiencia y productividad de cada línea de ensamblaje.](#) <br> • [Análisis de tiempos de inactividad y paradas no programadas.](#) <br> • [Indicadores clave de rendimiento (KPI) para evaluar el desempeño.](#) |
 | `log.csv` | /session_info | A copy of all `Debug.Log` calls during the session, as well as any other custom data saved under datatype SessionLog. |
 | `settings.json` | /session_info | A copy of all settings applied as the session begins. |
 | Trackers e.g `head_movement_T001.csv` | /trackers | A copy of tracker data, stored with one file per trial. Tracker data is continuous data, the most common will be tracking the movement of an object (e.g. head/hands) with the `PositionRotationTracker` component. |
