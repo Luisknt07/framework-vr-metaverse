@@ -1,5 +1,5 @@
 # Unreal Experiment Framework-VR-Metaverse
-A set of components which simplify human behaviour experiments developed in the Unity engine. UXF 2.0 supports experiments for VR, Desktop, as well as Web based experiments for full remote data collection, with different data output modes. This is the development project, if you want to download the package, do not clone this repository, see "Get Started" below. 
+Un conjunto de componentes que simplifican los experimentos para proyectos, para realidad virtual, escritorio y web, con diferentes modos de salida de datos. Este proyecto de desarrollo, trabaja con dos módulos enfocados en sistemas modulares y monitorización. Si desea descargar el paquete, puede probarlo en su versión limitada disponible de forma gratuita, si necesita la versión completa puede contactar para más información.
 
 <p align="center">
   <a href="https://doi.org/10.3758/s13428-019-01242-0">
