@@ -51,7 +51,7 @@ Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario
 # 5- Bases de datos para monitorización
 El repositorio de información y bases de datos para la monitorización se deja disponible con el propósito de mantener actualizada la información utilizada en el proyecto caso de estudio y para proporcionar recursos a la comunidad científica y a nuevos investigadores. Esto promueve la transparencia, el acceso abierto a los datos, la colaboración y el avance del conocimiento en el campo de la monitorización. 
 
-En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto: https://github.com/mickluis/framework-vr-metaverse}.
+En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto: [https://github.com/mickluis/framework-vr-metaverse}](https://github.com/mickluis/framework-vr-metaverse/tree/main#5--Bases-de-datos-para-monitorizaci%C3%B3n.
 
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
