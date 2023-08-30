@@ -1,5 +1,5 @@
 # Unreal Experiment Framework-VR-Metaverse
-Un conjunto de componentes que simplifican los experimentos para proyectos, para realidad virtual, escritorio y web, con diferentes modos de salida de datos. Este proyecto de desarrollo, trabaja con dos módulos enfocados en sistemas modulares y monitorización. Si desea descargar el paquete, puede probarlo en su versión limitada disponible de forma gratuita, si necesita la versión completa puede contactar para más información.
+El Framework es un conjunto de componentes que simplifican los experimentos para proyectos, para realidad virtual, escritorio y web, con diferentes modos de salida de datos. Este proyecto de desarrollo, trabaja con dos módulos enfocados en sistemas modulares y monitorización. Si desea descargar el paquete, puede probarlo en su versión limitada disponible de forma gratuita, si necesita la versión completa puede contactar para más información.
 
 <p align="center">
   <a href="https://doi.org/10.3758/s13428-019-01242-0">
@@ -34,13 +34,17 @@ Se recomienda contar con los requisitos mínimos recomendados de los equipos de 
 ## Disponibilidad del código fuente y documentación
 Digital Factory Metaverse está disponible gratuitamente en una versión limitada para descargar a través del repositorio GitHub como un paquete de Unreal Engine https://github.com/mickluis/framework-vr-metaverse En cuanto a la documentación y soporte, están disponibles en el wiki de GitHub https://github.com/mickluis/framework-vr-metaverse/wiki y también en la plataforma de realidad virtual y metaversos Virprot/proyectos/DIGITAL-FACTORY-METAVERSE https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE.
 
+Si desea la versión completa del proyecto puede contactarse con el autor para más información.
+
 ## Plugins Utilizados
-Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por derechos de autor se deben adquirir en la plataforma de Epic Games \url{https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true}.
-\begin{itemize}
-    \item Plugins de comunicación multiusuario: EOS core, Vivox Core
-     \item Plugins de bases de datos: Json, Socket.io
-    \item Plugins de comunicación web: Web view y Web server  
-\end{itemize}
+Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por derechos de autor se deben adquirir en la plataforma de Epic Games https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true.
+
+Los Plugins utilizados para el proyecto son los siguientes:
+```csharp
+    - Plugins de comunicación multiusuario: EOS core, Vivox Core
+    - Plugins de bases de datos: Json, Socket.io
+    - Plugins de comunicación web: Web view y Web server  
+```
 
 # 2- Cuestionario de pruebas de usabilidad
 
