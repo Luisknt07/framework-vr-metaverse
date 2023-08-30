@@ -6,10 +6,13 @@ Un conjunto de componentes que simplifican los experimentos para proyectos, para
   <img src="https://user-images.githubusercontent.com/60415183/260886477-ac25d16e-7d83-4c1e-90a7-ff6d42ccb742.png">
   </a>
   
-  Read the [open access paper](https://doi.org/10.3758/s13428-019-01242-0) in Behavior Research Methods! The paper is now slightly out of date but gives a good overview of the motivation of this project. Developed by Jack Brookes, Immersive Cognition Group, University of Leeds.
+
+¡Lea el artículo de [acceso abierto](https://www.mdpi.com/2076-3417/12/12/6258) Smart Factory Using Virtual Reality and Online Multi-User: Towards a Metaverse for Experimental Frameworks! El documento ofrece una buena visión general de la motivación de este proyecto.
+
+Si ha desarrollado un proyecto utilizando el Framework, ¡hágamelo saber!
 </p>
 
-If you have developed a project using UXF please [let me know](http://twitter.com/jackbrookes)! 
+
 
 **Contenido**
 - [1- Repositorio de proyecto Digital Factory Metaverse](#1--Repositorio-de-proyecto-Digital-Factory-Metaverse)
