@@ -57,18 +57,26 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 
 ### Monitorización por Procesos
 
-#### Base de datos de seguimiento de procesos de ensamblaje:
-  • [Registro de inicio y finalización de cada etapa del ensamblaje]((http://twitter.com/jackbrookes)
+#### Base de datos de seguimiento de procesos de ensamblaje
+    • Registro de inicio y finalización de cada etapa del ensamblaje
     • Datos de producción por fase y tiempo de ciclo de ensamblaje.
     • Identificación de operadores y maquinaria involucrada en cada proceso.
     • Registros de calidad y control de defectos durante el ensamblaje.
 
-#### Base de datos de rendimiento de procesos:
+#### Base de datos de rendimiento de procesos
+    • Registro de eficiencia y productividad de cada línea de ensamblaje.
+    • Análisis de tiempos de inactividad y paradas no programadas.
+    • Indicadores clave de rendimiento (KPI) para evaluar el desempeño.
 
-• Registro de eficiencia y productividad de cada línea de ensamblaje.
+### Monitorización por Maquinaria y Robots
+#### Base de datos de estado de la maquinaria y robots
+    • Registro del estado operativo de cada máquina y robot en tiempo real.
+    • Datos de mantenimiento preventivo y correctivo.
+    • Información sobre averías y reparaciones.
 
-• Análisis de tiempos de inactividad y paradas no programadas.
-• Indicadores clave de rendimiento (KPI) para evaluar el desempeño.
+#### Base de datos de utilización de maquinaria y robots
+    • Registro de tiempo de uso de cada equipo.
+    • Cálculo de la utilización y eficiencia de las máquinas y robots.
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
 Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realidad virtual. Estas guías tienen como objetivo mejorar la experiencia de los usuarios al utilizar el aplicativo y permitirles realizar prácticas de manera estructurada.
