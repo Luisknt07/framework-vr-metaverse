@@ -12,15 +12,15 @@ A set of components which simplify human behaviour experiments developed in the 
 If you have developed a project using UXF please [let me know](http://twitter.com/jackbrookes)! 
 
 **Contenido**
-- [1. Repositorio de proyecto Digital Factory Metaverse](#1-.-Repositorio-de-proyecto-Digital-Factory-Metaverse)
+- [1. Repositorio de proyecto Digital Factory Metaverse](#1--Repositorio-de-proyecto-Digital-Factory-Metaverse)
    - [Disponibilidad del ejecutable del proyecto](#Disponibilidad-del-ejecutable-del-proyecto)
    - [Disponibilidad del código fuente y documentación](#Disponibilidad-del-código-fuente-y-documentación)
    - [Plugins Utilizados](#Plugins-Utilizados)
 - [2. Cuestionario de pruebas de usabilidad](#2--Cuestionario-de-pruebas-de-usabilidad)
-- [3. Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse](#3.-Aplicación-de-la-metodología-SLP-para-el-proyecto-Digital-Factory-Metaverse)
-- [4. Documento de Diseño del Juego](#4.-Documento-de-Diseño-del-Juego)
+- [3. Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse](#3--Aplicación-de-la-metodología-SLP-para-el-proyecto-Digital-Factory-Metaverse)
+- [4. Documento de Diseño del Juego](#4--Documento-de-Diseño-del-Juego)
 
-# 1. Repositorio de proyecto Digital Factory Metaverse
+# 1- Repositorio de proyecto Digital Factory Metaverse
 
 ## Disponibilidad del ejecutable del proyecto
 Se pone a disposición de los investigadores la versión beta del ejecutable del proyecto Digital Factory Metaverse, la cual pueden descargar desde la plataforma Virprot https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción descargas.
@@ -42,9 +42,9 @@ Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por d
 Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del repositorio del proyecto donde se puede encontrar el cuestionario utilizado en el proceso de pruebas de usabilidad con los usuarios y los resultados de las pruebas por preguntas: https://forms.gle/MJNCa1CjfceJACiD7. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
 
 
-# 3. Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse
+# 3- Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse
 
-# 4. Documento de Diseño del Juego
+# 4- Documento de Diseño del Juego
 
 
 **Contents**
