@@ -12,15 +12,16 @@ A set of components which simplify human behaviour experiments developed in the 
 If you have developed a project using UXF please [let me know](http://twitter.com/jackbrookes)! 
 
 
-Repositorio de proyecto Digital Factory Metaverse
-Disponibilidad del ejecutable del proyecto
+#Repositorio de proyecto Digital Factory Metaverse
+
+## Disponibilidad del ejecutable del proyecto
 Se pone a disposición de los investigadores la versión beta del ejecutable del proyecto Digital Factory Metaverse, la cual pueden descargar desde la plataforma Virprot https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción descargas.
 Se recomienda contar con los requisitos mínimos recomendados de los equipos de gafas de realidad virtual y cómputo para poder experimentar una buena experiencia de usuario.
 
-Disponibilidad del código fuente y documentación
+## Disponibilidad del código fuente y documentación
 Digital Factory Metaverse está disponible gratuitamente en una versión limitada para descargar a través del repositorio GitHub como un paquete de Unreal Engine https://github.com/mickluis/framework-vr-metaverse En cuanto a la documentación y soporte, están disponibles en el wiki de GitHub https://github.com/mickluis/framework-vr-metaverse/wiki y también en la plataforma de realidad virtual y metaversos Virprot/proyectos/DIGITAL-FACTORY-METAVERSE https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE.
 
-\subsection*{Plugins Utilizados}
+## Plugins Utilizados
 Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por derechos de autor se deben adquirir en la plataforma de Epic Games \url{https://www.unrealengine.com/marketplace/en-US/store?sessionInvalidated=true}.
 \begin{itemize}
     \item Plugins de comunicación multiusuario: EOS core, Vivox Core
