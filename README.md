@@ -46,7 +46,17 @@ Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario
 
 # 3- Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse
 
+La metodología SLP utilizada para el proyecto permitió estructurar el contenido de estudio técnico para el diseño de distribución de la planta de producción con enfoque de Smart Factory. En el repositorio del proyecto se pueden encontrar los detalles de la metodología SLP, su contenido y los diseños de distribución de la planta: \url{https://github.com/mickluis/framework-vr-metaverse}. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
+
+
+A continuación se presenta los datos más importantes resumidos utilizando la metodología SLP para el proyecto Digital Factory Metaverse.
+
+Desarrollo de las fases de la metodología:
+
 # 4- Documento de Diseño del Juego
+A continuación se ofrece el enlace al Documento de Diseño del Juego (GDD), que proporciona detalles específicos sobre el desarrollo del aplicativo de realidad virtual. Dado que el documento es extenso, se ha optado por compartirlo en el repositorio del proyecto en una versión pública a través del siguiente enlace: \url{https://github.com/mickluis/framework-vr-metaverse} opción documento de diseño del juego.
+
+El contenido del GDD se muestra a continuación:
 
 # 5- Bases de datos para monitorización
 El repositorio de información y bases de datos para la monitorización se deja disponible con el propósito de mantener actualizada la información utilizada en el proyecto caso de estudio y para proporcionar recursos a la comunidad científica y a nuevos investigadores. Esto promueve la transparencia, el acceso abierto a los datos, la colaboración y el avance del conocimiento en el campo de la monitorización. 
@@ -58,7 +68,7 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 ### Monitorización por Procesos
 
 #### Base de datos de seguimiento de procesos de ensamblaje
-    • Registro de inicio y finalización de cada etapa del ensamblaje
+    • "Registro de inicio y finalización de cada etapa del ensamblaje".
     • Datos de producción por fase y tiempo de ciclo de ensamblaje.
     • Identificación de operadores y maquinaria involucrada en cada proceso.
     • Registros de calidad y control de defectos durante el ensamblaje.
