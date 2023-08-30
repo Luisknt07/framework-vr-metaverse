@@ -12,11 +12,11 @@ A set of components which simplify human behaviour experiments developed in the 
 If you have developed a project using UXF please [let me know](http://twitter.com/jackbrookes)! 
 
 **Contenido**
-- [1. Repositorio de proyecto Digital Factory Metaverse](#1Repositorio-de-proyecto-Digital-Factory-Metaverse)
+- [1. Repositorio de proyecto Digital Factory Metaverse](#1-.-Repositorio-de-proyecto-Digital-Factory-Metaverse)
    - [Disponibilidad del ejecutable del proyecto](#Disponibilidad-del-ejecutable-del-proyecto)
    - [Disponibilidad del código fuente y documentación](#Disponibilidad-del-código-fuente-y-documentación)
    - [Plugins Utilizados](#Plugins-Utilizados)
-- [2. Cuestionario de pruebas de usabilidad](#2Cuestionario-de-pruebas-de-usabilidad)
+- [2. Cuestionario de pruebas de usabilidad](#2-.-Cuestionario-de-pruebas-de-usabilidad)
 - [3. Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse](#3.-Aplicación-de-la-metodología-SLP-para-el-proyecto-Digital-Factory-Metaverse)
 - [4. Documento de Diseño del Juego](#4.-Documento-de-Diseño-del-Juego)
 
