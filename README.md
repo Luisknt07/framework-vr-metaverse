@@ -31,7 +31,9 @@ Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por d
 
 # 2. Cuestionario de pruebas de usabilidad
 
-Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del repositorio del proyecto donde se puede encontrar el cuestionario utilizado en el proceso de pruebas de usabilidad con los usuarios y los resultados de las pruebas por preguntas: https://github.com/mickluis/framework-vr-metaverse. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
+Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del repositorio del proyecto donde se puede encontrar el cuestionario utilizado en el proceso de pruebas de usabilidad con los usuarios y los resultados de las pruebas por preguntas: https://forms.gle/MJNCa1CjfceJACiD7. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
+
+
 
 
 
@@ -61,8 +63,6 @@ Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario
   Click the banner above to see some of our experiments that have been built with UXF.
 </p>
 
-## Cuestionario Pruebas de usabilidad
-https://forms.gle/MJNCa1CjfceJACiD7
 
 ## Get started
 
