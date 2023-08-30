@@ -48,7 +48,7 @@ Los Plugins utilizados para el proyecto son los siguientes:
 
 # 2- Cuestionario de pruebas de usabilidad
 
-Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del repositorio del proyecto donde se puede encontrar el cuestionario utilizado en el proceso de pruebas de usabilidad con los usuarios y los resultados de las pruebas por preguntas: https://forms.gle/MJNCa1CjfceJACiD7. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
+Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del cuestionario: https://forms.gle/MJNCa1CjfceJACiD7.
 
 
 # 3- Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse
@@ -72,10 +72,24 @@ En el siguiente enlace se muestra el repositorio que contiene las bases de datos
 
 ## Bases de Datos para la Monitorización en una Planta de Ensamble de Automóviles en Smart Factory
 
+|Tipo de monitorización || Description |
+|---|---|---|
+| `Monitorización por Procesos` |Base de datos de seguimiento de procesos de ensamblaje |    
+    • Registro de inicio y finalización de cada etapa del ensamblaje.
+    • Datos de producción por fase y tiempo de ciclo de ensamblaje.
+    • Identificación de operadores y maquinaria involucrada en cada proceso.
+    • Registros de calidad y control de defectos durante el ensamblaje. |
+| `participant_details.csv` | /session_info | A copy of the participant's details (typically the data that are collected along with participant ID using the UI). Stored as a single row. |
+| `log.csv` | /session_info | A copy of all `Debug.Log` calls during the session, as well as any other custom data saved under datatype SessionLog. |
+| `settings.json` | /session_info | A copy of all settings applied as the session begins. |
+| Trackers e.g `head_movement_T001.csv` | /trackers | A copy of tracker data, stored with one file per trial. Tracker data is continuous data, the most common will be tracking the movement of an object (e.g. head/hands) with the `PositionRotationTracker` component. |
+| Other data | /other | Any other [custom data stored manually](https://github.com/immersivecognition/unity-experiment-framework/wiki/Collect-Custom-Data), associated with a trial or a session. |
+
+
 ### Monitorización por Procesos
 
 #### Base de datos de seguimiento de procesos de ensamblaje
-    • "Registro de inicio y finalización de cada etapa del ensamblaje".
+    • Registro de inicio y finalización de cada etapa del ensamblaje.
     • Datos de producción por fase y tiempo de ciclo de ensamblaje.
     • Identificación de operadores y maquinaria involucrada en cada proceso.
     • Registros de calidad y control de defectos durante el ensamblaje.
