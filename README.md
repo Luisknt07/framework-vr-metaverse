@@ -20,6 +20,7 @@ If you have developed a project using UXF please [let me know](http://twitter.co
 - [3- Aplicación de la metodología SLP para el proyecto Digital Factory Metaverse](#3--Aplicación-de-la-metodología-SLP-para-el-proyecto-Digital-Factory-Metaverse)
 - [4- Documento de Diseño del Juego](#4--Documento-de-Diseño-del-Juego)
 - [5- Bases de datos para monitorización](#5--Bases-de-datos-para-monitorización)
+- [6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual](#6--Guías-de-prácticas-de-laboratorio-para-el-aplicativo-de-realidad-virtual)
 
 # 1- Repositorio de proyecto Digital Factory Metaverse
 
@@ -49,6 +50,14 @@ Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario
 
 # 5- Bases de datos para monitorización
 
+# 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
+Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realidad virtual. Estas guías tienen como objetivo mejorar la experiencia de los usuarios al utilizar el aplicativo y permitirles realizar prácticas de manera estructurada.
+
+Las guías abarcan temas de producción, logística, almacenamiento, diseño modular, monitorización y Smart Factory, proporcionando a los usuarios una comprensión completa de diversas áreas relevantes para la realidad virtual en entornos industriales.
+
+En total, se han diseñado 10 guías de laboratorio, disponibles en el repositorio del proyecto en el siguiente enlace: \url{https://github.com/mickluis/framework-vr-metaverse}. Cada guía incluye información general de la práctica, objetivos, proceso de desarrollo y marco teórico.
+
+De igual manera puede consultar, las guías de prácticas en la plataforma Virprot- \url{https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE} opción guías de laboratorio.
 
 **Contents**
 - [Built with UXF](#built-with-uxf)
