@@ -12,7 +12,7 @@ A set of components which simplify human behaviour experiments developed in the 
 If you have developed a project using UXF please [let me know](http://twitter.com/jackbrookes)! 
 
 
-#Repositorio de proyecto Digital Factory Metaverse
+# 1. Repositorio de proyecto Digital Factory Metaverse
 
 ## Disponibilidad del ejecutable del proyecto
 Se pone a disposición de los investigadores la versión beta del ejecutable del proyecto Digital Factory Metaverse, la cual pueden descargar desde la plataforma Virprot https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción descargas.
@@ -29,7 +29,9 @@ Al proyecto se le ha agregado (plugins) para su funcionamiento, los cuales por d
     \item Plugins de comunicación web: Web view y Web server  
 \end{itemize}
 
+# 2. Cuestionario de pruebas de usabilidad
 
+Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario con preguntas para las categorías de experiencia de usuario, preparación y control de dispositivos, multiusuario, efectos de inmersión, diseño modular y monitorización. A continuación, se proporciona el enlace del repositorio del proyecto donde se puede encontrar el cuestionario utilizado en el proceso de pruebas de usabilidad con los usuarios y los resultados de las pruebas por preguntas: https://github.com/mickluis/framework-vr-metaverse. El propósito del repositorio es mejorar y actualizar información del proyecto para la comunidad interesada en el desarrollo del Framework.
 
 
 
