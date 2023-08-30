@@ -49,15 +49,19 @@ Para las pruebas de usabilidad con los usuarios, se ha realizado un cuestionario
 # 4- Documento de Diseño del Juego
 
 # 5- Bases de datos para monitorización
+El repositorio de información y bases de datos para la monitorización se deja disponible con el propósito de mantener actualizada la información utilizada en el proyecto caso de estudio y para proporcionar recursos a la comunidad científica y a nuevos investigadores. Esto promueve la transparencia, el acceso abierto a los datos, la colaboración y el avance del conocimiento en el campo de la monitorización. 
+
+En el siguiente enlace se muestra el repositorio que contiene las bases de datos para monitorización tenidas en cuenta para el desarrollo de este proyecto: https://github.com/mickluis/framework-vr-metaverse}.
+
 
 # 6- Guías de prácticas de laboratorio para el aplicativo de realidad virtual
 Se desarrolló un conjunto de guías de laboratorio para el aplicativo de realidad virtual. Estas guías tienen como objetivo mejorar la experiencia de los usuarios al utilizar el aplicativo y permitirles realizar prácticas de manera estructurada.
 
 Las guías abarcan temas de producción, logística, almacenamiento, diseño modular, monitorización y Smart Factory, proporcionando a los usuarios una comprensión completa de diversas áreas relevantes para la realidad virtual en entornos industriales.
 
-En total, se han diseñado 10 guías de laboratorio, disponibles en el repositorio del proyecto en el siguiente enlace: \url{https://github.com/mickluis/framework-vr-metaverse}. Cada guía incluye información general de la práctica, objetivos, proceso de desarrollo y marco teórico.
+En total, se han diseñado 10 guías de laboratorio, disponibles en el repositorio del proyecto en el siguiente enlace: https://github.com/mickluis/framework-vr-metaverse. Cada guía incluye información general de la práctica, objetivos, proceso de desarrollo y marco teórico.
 
-De igual manera puede consultar, las guías de prácticas en la plataforma Virprot- \url{https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE} opción guías de laboratorio.
+De igual manera puede consultar, las guías de prácticas en la plataforma Virprot- https://virprot.com/Proyecto/Ref=DIGITAL-FACTORY-METAVERSE opción guías de laboratorio.
 
 **Contents**
 - [Built with UXF](#built-with-uxf)
